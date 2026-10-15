@@ -1,5 +1,8 @@
 # Ares Strategy Engine
 
+> **Current licensing policy — Forge Game License 2.0 (FG2-ARES-20261015).** This licensing-only edition requires separate permission for either public hosting or AI training by above-threshold entities on qualifying new Forge-controlled material. Previously supplied gameplay/media retain MIT, earlier Forge and other applicable grants. No retroactive restriction is claimed. See [release scope](LICENSING.md), [complete current terms](LICENSE), [preserved prior terms](LICENSE-LEGACY-PRE-FORGE-2.0.txt), [offline licensing page](FORGE-LICENSING.html) and [new download](https://github.com/titans-forge/ares-strategy-engine/releases/tag/forge-license-2.0-20261015). Earlier statements below describe the earlier game and preserved grants.
+
+
 Ares is a source-available Mars governance strategy engine for testing how humans and AI models make trade-offs under pressure.
 
 [Play on itch.io](https://titans-forge.itch.io/ares-the-mars-survival-simulator) · [Source and issues](https://github.com/titans-forge/ares-strategy-engine) · [Titans Forge game collection](https://github.com/titans-forge/educational-games)
